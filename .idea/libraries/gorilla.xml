@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gorilla">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com/gorilla" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
